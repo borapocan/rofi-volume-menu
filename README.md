@@ -3,8 +3,8 @@ Arch Linux Adjust System Volume Settings-Menu
 
 ## Installation
 ```
-git clone https://github.com/borapocan/rofi-volume-menu.git \n
-cd rofi-volume-menu \n
+git clone https://github.com/borapocan/rofi-volume-menu.git
+cd rofi-volume-menu
 chmod +x volume.sh
 ./volume.sh
 ```
