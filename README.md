@@ -13,4 +13,11 @@ cd rofi-volume-menu
 chmod +x volume.sh
 ./volume.sh
 ```
+
+## Usage
+Mute - mutes the sound
+Max - makes sound 250
++10 - adds 10 units to sound
+-10 - subtracts 10 units from sound
+
 You can put the script in your $PATH, so you can run it as a command or map a keybinding to it.
