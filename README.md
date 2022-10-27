@@ -1,7 +1,7 @@
 # rofi-volume-menu
 Arch Linux Adjust System Volume Settings-Menu
 
-![Alt text](~/Downloads/WhatsApp\ Image\ 2022-10-27\ at\ 09.19.44.jpeg?raw=true)
+![Alt text](~/Downloads/rofi-volume-menu.jpeg?raw=true)
 
 ## Installation
 ```
