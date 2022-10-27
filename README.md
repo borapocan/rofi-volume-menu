@@ -1,6 +1,8 @@
 # rofi-volume-menu
 Arch Linux Adjust System Volume Settings-Menu
 
+Install rofi with your package manager. For additional themes, install some themes and add them to /usr/share/rofi/themes or your config folder.
+
 ![WhatsApp Image 2022-10-27 at 09 19 45](https://user-images.githubusercontent.com/60720346/198209199-a8337bc5-ebbe-475a-8ba7-a54fdc3e90fb.jpeg)
 
 
