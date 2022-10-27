@@ -1,7 +1,7 @@
 # rofi-volume-menu
 Arch Linux Adjust System Volume Settings-Menu
 
-![Alt text](~/Downloads/rofi-volume-menu.jpeg?raw=true)
+![](/home/mrrobot/Downloads/rofi-volume-menu.jpeg?raw=true)
 
 ## Installation
 ```
