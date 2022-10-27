@@ -2,7 +2,7 @@
 
 done=0;
 
-#while [[ $terminate != "finish" ]]; do
+#while : ; do
 while [[ $done != 1 ]]; do
 
   #if [[ "$done" -ne 0]]; then
